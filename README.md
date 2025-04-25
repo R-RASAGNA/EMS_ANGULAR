@@ -1,7 +1,7 @@
-# Employee Management System 
+# StaffTrack – Smart Workforce Management
 Employee CRUD Application A simple Employee Management CRUD application built using Angular and JSON Server. Features include adding, updating, viewing, and deleting employee records with a responsive UI.
 
-# Employee CRUD Application
+# StaffTrack – Smart Workforce Management
 
 ## Description
 This is an Employee Management CRUD (Create, Read, Update, Delete) application built using Angular. It provides a user-friendly interface for managing employee records efficiently.
